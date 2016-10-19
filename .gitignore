@@ -1,6 +1,7 @@
 *.png
 *.eps
 *.csv
+*.out
 local.py
 *.pyc
 local.py
